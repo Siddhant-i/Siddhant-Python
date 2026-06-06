@@ -1,0 +1,9 @@
+# WAP to cheak if a number entered by the user is odd or even
+
+num = int(input("Enter the number : "))
+print("The entered number is : ",num)
+
+if(num % 2 == 0):
+    print("Even")
+else : 
+    print("Odd")

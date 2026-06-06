@@ -1,0 +1,5 @@
+
+
+str = " "
+
+print(str.isspace())
